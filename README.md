@@ -12,24 +12,15 @@
 
 |    Begin    | End         |                             Title                             |            Location            |                           Website                            |
 | :---------: | ----------- | :----------------------------------------------------------: | :----------------------------: | :----------------------------------------------------------: |
-| 2018-11-02  | 2018-11-05  | Sino-French ‘LIA-ORIGINS' Workshop - From First Epochs of Matter and Galaxy Formation to Extraterrestrial Life |            云南昆明            |          http://2018lia.csp.escience.cn/dct/page/1           |
-| 03 Nov 2018 | 03 Nov 2018 | ILRS Analysis Standing Committee Meeting                     | Canberra, Australia              ||
-| 04 Nov 2018 | 06 Nov 2018 | International Workshop on GNSS Ionosphere (IWGI2018) | Shanghai, China                  |http://202.127.29.4/geodesy/iwgi2018/|
-| 04 Nov 2018 | 09 Nov 2018 | 13th Meeting of the International Committee on Global Navigation Satellite Systems (ICG) | Xi'an, China                     |http://icg13.beidou.gov.cn/|
-| 05 Nov 2018 | 08 Nov 2018 | International Data Week 2018: The Digital Frontiers of Global Science | Gaborone, Botswana               |http://internationaldataweek.org/|
-| 05 Nov 2018 | 09 Nov 2018 | 21st International Workshop on Laser Ranging | Canberra, Australia              |http://www.iwlr2018.serc.org.au/|
-| 09 Nov 2018 | 10 Nov 2018 | 31st CODATA General Assembly | Gaborone, Botswana               |http://www.codata.org/events/general-assembly/general-assembly-2018|
-| 09 Nov 2018 | 10 Nov 2018 | 3rd Meeting of the Asia-Oceania VLBI Group for Geodesy and Astrometry (AOV) | Canberra, Australia              |http://auscope.phys.utas.edu.au/aov/meetings/aov2018/3rdaovgm.html|
-| 12 Nov 2018 | 15 Nov 2018 | 7th International VLBI Technology Workshop | Krabi, Thailand                  |http://www.narit.or.th/en/index.php/ivtw2018|
-| 2018-11-12  | 2018-11-16  | The life and times of the Milky Way - The symbiosis between Gaia and ground-based spectroscopic surveys |              上海              |          http://gaia2018.csp.escience.cn/dct/page/1          |
+| 19 Nov 2018 | 21 Nov 2018 | First United Nations World Geospatial Information Congress | Deqing, Zhejiang Province, China |http://ggim.un.org/meetings/2018-1st_Congress_Deqing|
+|   201811    |             |                 第一届空间地球科学学术研讨会                 |            海南三亚            |          http://sess2018.csp.escience.cn/dct/page/1          |
+| 2018-11-21 | 2018-11-25 | 中国虚拟天文台与天文信息学2018年学术年会 | 江西景德镇 | http://www.china-vo.org/events/cvo2018/index.html |
+| 2018-11-22 | 2018-11-23 | 2018中国SKA科学大会 | 上海市 | http://skachina2018.csp.escience.cn/dct/page/1 |
 
 ### 2018
 
 |    Begin    | End         |                             Title                             |            Location            |                           Website                            |
 | :---------: | ----------- | :----------------------------------------------------------: | :----------------------------: | :----------------------------------------------------------: |
-| 19 Nov 2018 | 21 Nov 2018 | First United Nations World Geospatial Information Congress | Deqing, Zhejiang Province, China |http://ggim.un.org/meetings/2018-1st_Congress_Deqing|
-|   201811    |             |                 第一届空间地球科学学术研讨会                 |            海南三亚            |          http://sess2018.csp.escience.cn/dct/page/1          |
-| 2018-11-21 | 2018-11-25 | 中国虚拟天文台与天文信息学2018年学术年会 | 江西景德镇 | http://www.china-vo.org/events/cvo2018/index.html |
 | 2018-12-03  | 2018-12-04  | 2018年度北京大学科维理天体物理论坛 - 中国未来地面天文设备展望 |            北京大学            |             http://kiaa.pku.edu.cn/astroforum18/             |
 | 2018-12-10  | 2018-12-13  |                      IEEE BigData 2018                       |        Seattle, WA, USA        |     http://cci.drexel.edu/bigdata/bigdata2018/index.html     |
 | 08 Oct 2018 | 10 Oct 2018 | 9th OPTICON Gaia Science Alerts workshop |        Vipava, Slovenia        | https://www.ast.cam.ac.uk/ioa/wikis/gsawgwiki/index.php/Workshop2018:main |
@@ -131,6 +122,16 @@
 | 2018-10-27  | 2018-10-31  |                中国天文学会2018年学术年会                |            云南昆明            |       http://2018casmeeting.csp.escience.cn/dct/page/1       |
 | 29 Oct 2018 | 02 Nov 2018 | IGS 2018 Workshop: Multi-GNSS Through Global Collaboration | Wuhan, China                     |http://igsworkshop2018.gnsswhu.cn/|
 | 2018-10-31  | 2018-11-01  |             中国天文学会第十四次全国会员代表大会             |            云南昆明            | http://astronomy.pmo.cas.cn/qt/tzgg/201808/t20180824_423917.html |
+| 2018-11-02  | 2018-11-05  | Sino-French ‘LIA-ORIGINS' Workshop - From First Epochs of Matter and Galaxy Formation to Extraterrestrial Life |            云南昆明            |          http://2018lia.csp.escience.cn/dct/page/1           |
+| 03 Nov 2018 | 03 Nov 2018 | ILRS Analysis Standing Committee Meeting                     | Canberra, Australia              ||
+| 04 Nov 2018 | 06 Nov 2018 | International Workshop on GNSS Ionosphere (IWGI2018) | Shanghai, China                  |http://202.127.29.4/geodesy/iwgi2018/|
+| 04 Nov 2018 | 09 Nov 2018 | 13th Meeting of the International Committee on Global Navigation Satellite Systems (ICG) | Xi'an, China                     |http://icg13.beidou.gov.cn/|
+| 05 Nov 2018 | 08 Nov 2018 | International Data Week 2018: The Digital Frontiers of Global Science | Gaborone, Botswana               |http://internationaldataweek.org/|
+| 05 Nov 2018 | 09 Nov 2018 | 21st International Workshop on Laser Ranging | Canberra, Australia              |http://www.iwlr2018.serc.org.au/|
+| 09 Nov 2018 | 10 Nov 2018 | 31st CODATA General Assembly | Gaborone, Botswana               |http://www.codata.org/events/general-assembly/general-assembly-2018|
+| 09 Nov 2018 | 10 Nov 2018 | 3rd Meeting of the Asia-Oceania VLBI Group for Geodesy and Astrometry (AOV) | Canberra, Australia              |http://auscope.phys.utas.edu.au/aov/meetings/aov2018/3rdaovgm.html|
+| 12 Nov 2018 | 15 Nov 2018 | 7th International VLBI Technology Workshop | Krabi, Thailand                  |http://www.narit.or.th/en/index.php/ivtw2018|
+| 2018-11-12  | 2018-11-16  | The life and times of the Milky Way - The symbiosis between Gaia and ground-based spectroscopic surveys |              上海              |          http://gaia2018.csp.escience.cn/dct/page/1          |
 
 
 ## Refer
