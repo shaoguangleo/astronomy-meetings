@@ -46,6 +46,7 @@
 | 16 Sep 2019                                                  | 20 Sep 2019                                                  | ION GNSS+ 2019                                               | Miami, Florida, USA               |                |
 | 01 Oct 2019                                                  | 30 Nov 2019                                                  | The Earth's Time Varying Rotation: A Centennial Celebration  | to be defined                     |                      |
 | 01 Nov 2019                                                  | 30 Nov 2019                                                  | 14th Meeting of the International Committee on Global Navigation Satellite Systems (ICG) [exact dates TBD] | India                             |                              |
+| 2019-11-27 | 2019-11-30 | 中国虚拟天文台与天文信息学2019年学术年会 | 黑龙江大庆市 | |
 | 09 Dec 2019                                                  | 13 Dec 2019                                                  | AGU 2019 Fall Meeting                                        | San Francisco, CA, USA            |             |
 
 ### 2020
