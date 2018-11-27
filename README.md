@@ -1,23 +1,14 @@
 # 天文相关会议
 
-搜集系列相关会议，供大家参考。
+搜集系列相关会议，供大家参考。更好阅读体验参考原文[天文会议汇总](https://shaoguangleo.github.io/tags/astromeeting)。
 
-欢迎大家补充、修改*PR*、*fork*、*star*或*clone*，一般半月更新一次，谢谢。
+欢迎大家补充、修改*PR*、*fork*、*star*或*clone*，一般一月更新一次，谢谢。
 
 原始文件请参考 [天文会议汇总](https://github.com/shaoguangleo/astronomy-meetings)。
 
 ## Forthcoming
 
-### <font color=red>In the following 15 days</font>
-
-|    Begin    | End         |                             Title                             |            Location            |                           Website                            |
-| :---------: | ----------- | :----------------------------------------------------------: | :----------------------------: | :----------------------------------------------------------: |
-| 19 Nov 2018 | 21 Nov 2018 | First United Nations World Geospatial Information Congress | Deqing, Zhejiang Province, China |http://ggim.un.org/meetings/2018-1st_Congress_Deqing|
-|   201811    |             |                 第一届空间地球科学学术研讨会                 |            海南三亚            |          http://sess2018.csp.escience.cn/dct/page/1          |
-| 2018-11-21 | 2018-11-25 | 中国虚拟天文台与天文信息学2018年学术年会 | 江西景德镇 | http://www.china-vo.org/events/cvo2018/index.html |
-| 2018-11-22 | 2018-11-23 | 2018中国SKA科学大会 | 上海市 | http://skachina2018.csp.escience.cn/dct/page/1 |
-
-### 2018
+### <font color=red>In the following 30 days</font>  2018即将离去
 
 |    Begin    | End         |                             Title                             |            Location            |                           Website                            |
 | :---------: | ----------- | :----------------------------------------------------------: | :----------------------------: | :----------------------------------------------------------: |
@@ -40,7 +31,8 @@
 | 22 Apr 2019                                                  | 26 Apr 2019                                                  | FIG Working Week 2019         | Hanoi, Vietnam                    | http://www.fig.net/fig2019/ |
 | 01 May 2019                                                  | 31 May 2019                                                  | 24th EVGA Working Meeting & 20th IVS Analysis Workshop [exact dates TBD] | Las Palmas de Gran Canaria, Spain |  |
 | 05 May 2019                                                  | 09 May 2019                                                  | Tenth IVS Technical Operations Workshop                      | Westford, MA, USA                 |                  |
-| 22 May 2019                                                  | 24 May 2019                                                  | EUREF 2019 Symposium                                         | Tallinn, Estonia                  |                   |
+| 22 May 2019                                                  | 24 May 2019                                                  | EUREF 2019 Symposium                                         | Tallinn, Estonia                  | 2019-06-17 |
+| 2019-06-17 | 2019-06-20 | The 41st PIERS | Rome,Italy | http://piers.org/piers2019Rome/ |
 | 08 Jul 2019                                                  | 18 Jul 2019                                                  | 27th IUGG General Assembly   | Montreal, Canada                  | http://iugg2019montreal.com/ |
 | 28 Jul 2019                                                  | 02 Aug 2019                                                  | AOGS 16th Annual Meeting | Singapore                         | http://www.asiaoceania.org/aogs2019/ |
 | 16 Sep 2019                                                  | 20 Sep 2019                                                  | ION GNSS+ 2019                                               | Miami, Florida, USA               |                |
@@ -101,7 +93,7 @@
 
 
 
-## Past events
+## <font color=blue>Past Events</font>
 
 | Begin      | End        | Title                                          | Location     | Website                                   |
 | ---------- | ---------- | ---------------------------------------------- | ------------ | ----------------------------------------- |
@@ -134,6 +126,10 @@
 | 09 Nov 2018 | 10 Nov 2018 | 3rd Meeting of the Asia-Oceania VLBI Group for Geodesy and Astrometry (AOV) | Canberra, Australia              |http://auscope.phys.utas.edu.au/aov/meetings/aov2018/3rdaovgm.html|
 | 12 Nov 2018 | 15 Nov 2018 | 7th International VLBI Technology Workshop | Krabi, Thailand                  |http://www.narit.or.th/en/index.php/ivtw2018|
 | 2018-11-12  | 2018-11-16  | The life and times of the Milky Way - The symbiosis between Gaia and ground-based spectroscopic surveys |              上海              |          http://gaia2018.csp.escience.cn/dct/page/1          |
+| 19 Nov 2018 | 21 Nov 2018 | First United Nations World Geospatial Information Congress | Deqing, Zhejiang Province, China |http://ggim.un.org/meetings/2018-1st_Congress_Deqing|
+|  2018-11-14 | 2018-11-17 |                 第一届空间地球科学学术研讨会                 |            海南三亚            |          http://sess2018.csp.escience.cn/dct/page/1          |
+| 2018-11-21 | 2018-11-25 | 中国虚拟天文台与天文信息学2018年学术年会 | 江西景德镇 | http://www.china-vo.org/events/cvo2018/index.html |
+| 2018-11-22 | 2018-11-23 | 2018中国SKA科学大会 | 上海市 | http://skachina2018.csp.escience.cn/dct/page/1 |
 
 
 ## Refer
