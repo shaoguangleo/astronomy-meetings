@@ -32,6 +32,7 @@
 | 01 May 2019                                                  | 31 May 2019                                                  | 24th EVGA Working Meeting & 20th IVS Analysis Workshop [exact dates TBD] | Las Palmas de Gran Canaria, Spain |  |
 | 05 May 2019                                                  | 09 May 2019                                                  | Tenth IVS Technical Operations Workshop                      | Westford, MA, USA                 |                  |
 | 22 May 2019                                                  | 24 May 2019                                                  | EUREF 2019 Symposium                                         | Tallinn, Estonia                  | 2019-06-17 |
+| 12 June 2019 | 14 June 2019 | PASC19 | ETH Zurich, Switzerland | https://pasc19.pasc-conference.org/ |
 | 2019-06-17 | 2019-06-20 | The 41st PIERS | Rome,Italy | http://piers.org/piers2019Rome/ |
 | June 25 2019 | June 27 2019 | Radio/Millimeter Astrophysical Frontiers in the Next Decade | University of Virginia, Inn at Darden, Charlottesville, VA | https://web.cvent.com/event/113b66a4-48cd-4881-a098-ed5820c65813/summary |
 | 08 Jul 2019                                                  | 18 Jul 2019                                                  | 27th IUGG General Assembly   | Montreal, Canada                  | http://iugg2019montreal.com/ |
