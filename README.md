@@ -24,6 +24,9 @@
 | :------- | ---------- | :----------: | :---------: | ------- |
 | 29 Jan 2019                                                  | 31 Jan 2019                                                  | ION Precise Time and Time Interval Meeting (PTTI) | Reston, VA, USA                   | https://www.ion.org/ptti/index.cfm |
 | 12 February 2019 | 15 February 2019 | NZ SKA Forum 2019 | Auckland University of Technology (AUT), New Zealand | https://irasr.aut.ac.nz/news-And-events2/news-And-events/nz-ska-forum-2019 |
+| 14 Mar 2019 | 16 Mar 2019 | VLBI Training School | Las Palmas de Gran, Spain |  |
+| 17 Mar 2019 | 19 Mar 2019 | 24th Meeting of the European VLBI group for Geodesy and Astrometry(EVGA) | Las Palmas de Gran, Spain |  |
+| 20 Mar 2019 |  | 18th IVS Analysis Workshop | Las Palmas de Gran, Spain |  |
 | 25 Mar 2019                                                  | 29 Mar 2019                                                  | 2019 Santa Barbara Gaia Sprint | Santa Barbara, CA, USA            | http://gaia.lol/2019SB.html |
 | 07 Apr 2019                                                  | 12 Apr 2019                                                  | EGU General Assembly 2019          | Vienna, Austria                   | http://www.egu2019.eu/ |
 | 08 Apr 2019                                                  | 12 Apr 2019                                                  | ESLAB #53: The Gaia Universe | Noordwijk, The Netherlands        | https://www.cosmos.esa.int/web/the-gaia-universe/ |
