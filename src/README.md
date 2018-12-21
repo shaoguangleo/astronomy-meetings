@@ -9,3 +9,6 @@
 - 国家授时中心 国际会议<http://www.ntsc.cas.cn/hzjl/gjhy/>
 - 中国天文学会<http://astronomy.pmo.cas.cn/xsjl/gjxsjl/>
 - 中国天文学会 <http://astronomy.pmo.cas.cn/xsjl/gnxsjl/>
+- https://ivscc.gsfc.nasa.gov/meetings/
+- http://wp.portal.chalmers.se/evga/meetings/
+- DiFX http://www.atnf.csiro.au/vlbi/dokuwiki/doku.php/difx/meetings
