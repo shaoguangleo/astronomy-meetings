@@ -11,4 +11,6 @@
 - 中国天文学会 <http://astronomy.pmo.cas.cn/xsjl/gnxsjl/>
 - https://ivscc.gsfc.nasa.gov/meetings/
 - http://wp.portal.chalmers.se/evga/meetings/
-- DiFX http://www.atnf.csiro.au/vlbi/dokuwiki/doku.php/difx/meetings
+- [DiFX](http://www.atnf.csiro.au/vlbi/dokuwiki/doku.php/difx/meetings)
+- [SKA](https://indico.skatelescope.org/category/1/)
+
