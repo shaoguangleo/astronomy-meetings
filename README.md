@@ -8,27 +8,23 @@
 
 ## Forthcoming
 
-### <font color=red>In the following 30 days</font>  2018即将离去
+### In the following 90 days <font color=green>2019悄然到来</font>
 
 |    Begin    | End         |                             Title                             |            Location            |                           Website                            |
 | :---------: | ----------- | :----------------------------------------------------------: | :----------------------------: | :----------------------------------------------------------: |
-| 2018-12-03  | 2018-12-04  | 2018年度北京大学科维理天体物理论坛 - 中国未来地面天文设备展望 |            北京大学            |             http://kiaa.pku.edu.cn/astroforum18/             |
-| 2018-12-10  | 2018-12-13  |                      IEEE BigData 2018                       |        Seattle, WA, USA        |     http://cci.drexel.edu/bigdata/bigdata2018/index.html     |
-| 08 October 2018 | 10 October 2018 | 9th OPTICON Gaia Science Alerts workshop |        Vipava, Slovenia        | https://www.ast.cam.ac.uk/ioa/wikis/gsawgwiki/index.php/Workshop2018:main |
-| 10 December 2018 | 14 December 2018 | AGU 2018 Fall Meeting   | Washington, D.C., USA            |https://fallmeeting.agu.org/2018/|
+| 28 January 2019                                             | 31 January 2019                                              | ION Precise Time and Time Interval Meeting (PTTI) | Reston, VA, USA                   | https://www.ion.org/ptti/index.cfm |
+| 29 January 2019 | 30 January 2019 | Second Asia SKA Initiative On Neutron Star (ASIONS) meeting | Kantary Hills, Chiang Mai, Thailand | https://indico.narit.or.th/event/96/ |
+| 12 February 2019 | 15 February 2019 | NZ SKA Forum 2019 | Auckland University of Technology (AUT), New Zealand | https://irasr.aut.ac.nz/news-And-events2/news-And-events/nz-ska-forum-2019 |
+| 14 March 2019 | 16 March 2019 | VLBI Training School | Las Palmas de Gran, Spain | <font color=darkred>TBA</font> |
+| 17 March 2019 | 19 March 2019 | 24th Meeting of the European VLBI group for Geodesy and Astrometry(EVGA) | Las Palmas de Gran, Spain | <font color=darkred>TBA</font> |
+| 20 March 2019 |  | 18th IVS Analysis Workshop | Las Palmas de Gran, Spain | <font color=darkred>TBA</font> |
+| 25 March 2019                                                | 29 March 2019                                                | 2019 Santa Barbara Gaia Sprint | Santa Barbara, CA, USA            | http://gaia.lol/2019SB.html |
 
 
 ### 2019
 
 | Begin | End | Title| Location                          | Website                   |
 | :------- | ---------- | :----------: | :---------: | ------- |
-| 28 January 2019                                             | 31 January 2019                                              | ION Precise Time and Time Interval Meeting (PTTI) | Reston, VA, USA                   | https://www.ion.org/ptti/index.cfm |
-| 29 January 2019 | 30 January 2019 | Second Asia SKA Initiative On Neutron Star (ASIONS) meeting | Kantary Hills, Chiang Mai, Thailand | https://indico.narit.or.th/event/96/ |
-| 12 February 2019 | 15 February 2019 | NZ SKA Forum 2019 | Auckland University of Technology (AUT), New Zealand | https://irasr.aut.ac.nz/news-And-events2/news-And-events/nz-ska-forum-2019 |
-| 14 March 2019 | 16 March 2019 | VLBI Training School | Las Palmas de Gran, Spain | TBA |
-| 17 March 2019 | 19 March 2019 | 24th Meeting of the European VLBI group for Geodesy and Astrometry(EVGA) | Las Palmas de Gran, Spain | TBA |
-| 20 March 2019 |  | 18th IVS Analysis Workshop | Las Palmas de Gran, Spain | TBA |
-| 25 March 2019                                                | 29 March 2019                                                | 2019 Santa Barbara Gaia Sprint | Santa Barbara, CA, USA            | http://gaia.lol/2019SB.html |
 | April 2019 |  | IGS 2019 Analysis Workshop | Potsdam, Germany |  |
 | 3 April 2019 | 5 April 2019 | SKA History Meeting | Jodrell Bank, UK | https://indico.skatelescope.org/event/518/ |
 | 07 April 2019                                                | 12 April 2019                                                | EGU General Assembly 2019          | Vienna, Austria                   | http://www.egu2019.eu/ |
@@ -37,22 +33,22 @@
 | 09 April 2019                                                | 12 April 2019                                                | European Navigation Conference 2019 (ENC 2019) | Warsaw, Poland                    | http://enc2019.eu/  |
 | 15 April 2019 | 17 April 2019 | Eating VLBI workshop 2019 "East Asia to Italy: Nearly Global VLBI" | Bologna,CNR Research area,Italy | https://sites.google.com/a/inaf.it/eating-vlbi-workshop-2019/home |
 | 22 April 2019                                                | 26 April 2019                                                | FIG Working Week 2019         | Hanoi, Vietnam                    | http://www.fig.net/fig2019/ |
-| 01 May 2019                                                  | 31 May 2019                                                  | 24th EVGA Working Meeting & 20th IVS Analysis Workshop [exact dates TBD] | Las Palmas de Gran Canaria, Spain | TBA |
+| 01 May 2019                                                  | 31 May 2019                                                  | 24th EVGA Working Meeting & 20th IVS Analysis Workshop [exact dates TBD] | Las Palmas de Gran Canaria, Spain | <font color=darkred>TBA</font> |
 | 13 May 2019 | 17 May 2019 | ESA Living Planet Symposium | Milan, Italy | https://lps19.esa.int/QuickEventWebsitePortal/living-planet-symposium-2019/website |
-| 05 May 2019                                                  | 09 May 2019                                                  | Tenth IVS Technical Operations Workshop                      | Westford, MA, USA                 | TBA |
+| 05 May 2019                                                  | 09 May 2019                                                  | Tenth IVS Technical Operations Workshop                      | Westford, MA, USA                 | <font color=darkred>TBA</font> |
 | 22 May 2019                                                  | 24 May 2019                                                  | EUREF 2019 Symposium                                         | Tallinn, Estonia                  | 2019-06-17 |
 | 12 June e 2019 | 14 June 2019 | PASC19 | ETH Zurich, Switzerland | https://pasc19.pasc-conference.org/ |
 | 2019-06-17 | 2019-06-20 | The 41st PIERS | Rome,Italy | http://piers.org/piers2019Rome/ |
 | June 25 2019 | June 27 2019 | Radio/Millimeter Astrophysical Frontiers in the Next Decade | University of Virginia, Inn at Darden, Charlottesville, VA | https://web.cvent.com/event/113b66a4-48cd-4881-a098-ed5820c65813/summary |
 | 08 July 2019                                                 | 18 July 2019                                                 | 27th IUGG General Assembly   | Montreal, Canada                  | http://iugg2019montreal.com/ |
 | 28 July 2019                                                 | 02 August 2019                                               | AOGS 16th Annual Meeting | Singapore                         | http://www.asiaoceania.org/aogs2019/ |
-| 16 Sep 2019                                                  | 20 Sep 2019                                                  | ION GNSS+ 2019                                               | Miami, Florida, USA               | TBA |
-| 01 October 2019                                              | 30 November 2019                                             | The Earth's Time Varying Rotation: A Centennial Celebration  | TBA                  | TBA |
-| 01 November 2019                                             | 30 November 2019                                             | 14th Meeting of the International Committee on Global Navigation Satellite Systems (ICG) [exact dates TBD] | India                             | TBA |
-| 2019-11-27 | 2019-11-30 | 中国虚拟天文台与天文信息学2019年学术年会 | 黑龙江大庆市 | TBA |
-| 09 December 2019                                             | 13 December 2019                                             | AGU 2019 Fall Meeting                                        | San Francisco, CA, USA            | TBA |
-| December 2019 | TBA | The 8th International VLBI Technology Workshop | Australia | TBA |
-| TBA | TBA | 13th DiFX Users and Developers Meeting | TBA | TBA |
+| 16 Sep 2019                                                  | 20 Sep 2019                                                  | ION GNSS+ 2019                                               | Miami, Florida, USA               | <font color=darkred>TBA</font> |
+| 01 October 2019                                              | 30 November 2019                                             | The Earth's Time Varying Rotation: A Centennial Celebration  | <font color=darkred>TBA</font> | <font color=darkred>TBA</font> |
+| 01 November 2019                                             | 30 November 2019                                             | 14th Meeting of the International Committee on Global Navigation Satellite Systems (ICG) [exact dates TBD] | India                             | <font color=darkred>TBA</font> |
+| 2019-11-27 | 2019-11-30 | 中国虚拟天文台与天文信息学2019年学术年会 | 黑龙江大庆市 | <font color=darkred>TBA</font> |
+| 09 December 2019                                             | 13 December 2019                                             | AGU 2019 Fall Meeting                                        | San Francisco, CA, USA            | <font color=darkred>TBA</font> |
+| December 2019 | <font color=darkred>TBA</font> | The 8th International VLBI Technology Workshop | Australia | <font color=darkred>TBA</font> |
+| <font color=darkred>TBA</font> | <font color=darkred>TBA</font> | 13th DiFX Users and Developers Meeting | <font color=darkred>TBA</font> | <font color=darkred>TBA</font> |
 
 ### 2020
 
@@ -62,13 +58,13 @@
 | 01 April 2020                                                | 31 May 2020                                                  | European Navigation Conference 2020 (ENC 2020) [exact dates TBD] | Dresden, Germany                                             |                                              |
 | 03 May 2020                                                  | 08 May 2020                                                  | EGU General Assembly 2020          | Vienna, Austria                                              | http://www.egu2020.eu                         |
 | 10 May 2020                                                  | 14 May 2020                                                  | FIG Working Week 2020         | Amsterdam, The Netherlands                                   | http://www.fig.net/fig2020/        |
-| 28 June 2020                                                 | 04 July 2020                                                 | AOGS 17th Annual Meeting                                     | Gangwon, South Korea                                         |                                          |
-| August 2020 | August 2020 | IGS 2020 Workshop | UNAVCO/UCAR, Boulder CO | |
+| 28 June 2020                                                 | 04 July 2020                                                 | AOGS 17th Annual Meeting                                     | Gangwon, South Korea                                         | <font color=darkred>TBA</font> |
+| August 2020 | August 2020 | IGS 2020 Workshop | UNAVCO/UCAR, Boulder CO | <font color=darkred>TBA</font> |
 | 15 August 2020                                               | 23 August 2020                                               | 43rd COSPAR Scientific Assembly | Sydney, Australia                                            | http://www.cospar2020.org/                  |
-| 21 Sep 2020                                                  | 25 Sep 2020                                                  | ION GNSS+ 2020                                               | St. Louis, Missouri, USA                                     |                                      |
-| 01 October 2020                                              | 31 October 2020                                              | 22nd International Workshop on Laser Ranging [exact dates TBD] | Kunming, China                                               |                                                |
-| 01 November 2020                                             | 30 November 2020                                             | 15th Meeting of the International Committee on Global Navigation Satellite Systems (ICG) [exact dates TBD] | Vienna, Austria                                              |                                               |
-| 07 December 2020                                             | 11 December 2020                                             | AGU 2020 Fall Meeting                                        | San Francisco, California, USA                               |                                |
+| 21 Sep 2020                                                  | 25 Sep 2020                                                  | ION GNSS+ 2020                                               | St. Louis, Missouri, USA                                     | <font color=darkred>TBA</font> |
+| 01 October 2020                                              | 31 October 2020                                              | 22nd International Workshop on Laser Ranging [exact dates TBD] | Kunming, China                                               | <font color=darkred>TBA</font> |
+| 01 November 2020                                             | 30 November 2020                                             | 15th Meeting of the International Committee on Global Navigation Satellite Systems (ICG) [exact dates TBD] | Vienna, Austria                                              | <font color=darkred>TBA</font> |
+| 07 December 2020                                             | 11 December 2020                                             | AGU 2020 Fall Meeting                                        | San Francisco, California, USA                               | <font color=darkred>TBA</font> |
 
 ### 2021
 
@@ -144,6 +140,10 @@
 |  2018-11-14 | 2018-11-17 |                 第一届空间地球科学学术研讨会                 |            海南三亚            |          http://sess2018.csp.escience.cn/dct/page/1          |
 | 2018-11-21 | 2018-11-25 | 中国虚拟天文台与天文信息学2018年学术年会 | 江西景德镇 | http://www.china-vo.org/events/cvo2018/index.html |
 | 2018-11-22 | 2018-11-23 | 2018中国SKA科学大会 | 上海市 | http://skachina2018.csp.escience.cn/dct/page/1 |
+| 2018-12-03  | 2018-12-04  | 2018年度北京大学科维理天体物理论坛 - 中国未来地面天文设备展望 |            北京大学            |             http://kiaa.pku.edu.cn/astroforum18/             |
+| 2018-12-10  | 2018-12-13  |                      IEEE BigData 2018                       |        Seattle, WA, USA        |     http://cci.drexel.edu/bigdata/bigdata2018/index.html     |
+| 08 October 2018 | 10 October 2018 | 9th OPTICON Gaia Science Alerts workshop |        Vipava, Slovenia        | https://www.ast.cam.ac.uk/ioa/wikis/gsawgwiki/index.php/Workshop2018:main |
+| 10 December 2018 | 14 December 2018 | AGU 2018 Fall Meeting   | Washington, D.C., USA            |https://fallmeeting.agu.org/2018/|
 
 
 ## Refer
