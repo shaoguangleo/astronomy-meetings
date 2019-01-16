@@ -15,8 +15,8 @@
 | 28 January 2019                                             | 31 January 2019                                              | ION Precise Time and Time Interval Meeting (PTTI) | Reston, VA, USA                   | https://www.ion.org/ptti/index.cfm |
 | 29 January 2019 | 30 January 2019 | Second Asia SKA Initiative On Neutron Star (ASIONS) meeting | Kantary Hills, Chiang Mai, Thailand | https://indico.narit.or.th/event/96/ |
 | 12 February 2019 | 15 February 2019 | NZ SKA Forum 2019 | Auckland University of Technology (AUT), New Zealand | https://irasr.aut.ac.nz/news-And-events2/news-And-events/nz-ska-forum-2019 |
-| 14 March 2019 | 16 March 2019 | VLBI Training School | Las Palmas de Gran, Spain | <font color=darkred>TBA</font> |
-| 17 March 2019 | 19 March 2019 | 24th Meeting of the European VLBI group for Geodesy and Astrometry(EVGA) | Las Palmas de Gran, Spain | <font color=darkred>TBA</font> |
+| 14 March 2019 | 16 March 2019 | VLBI Training School | Las Palmas de Gran, Spain | http://www.oan.es/evga2019/index.shtml |
+| 17 March 2019 | 19 March 2019 | 24th Meeting of the European VLBI group for Geodesy and Astrometry(EVGA) | Las Palmas de Gran, Spain | http://www.oan.es/evga2019/index.shtml |
 | 20 March 2019 |  | 18th IVS Analysis Workshop | Las Palmas de Gran, Spain | <font color=darkred>TBA</font> |
 | 25 March 2019                                                | 29 March 2019                                                | 2019 Santa Barbara Gaia Sprint | Santa Barbara, CA, USA            | http://gaia.lol/2019SB.html |
 
@@ -25,7 +25,7 @@
 
 | Begin | End | Title| Location                          | Website                   |
 | :------- | ---------- | :----------: | :---------: | ------- |
-| April 2019 |  | IGS 2019 Analysis Workshop | Potsdam, Germany |  |
+| April 2019 |  | IGS 2019 Analysis Workshop | Potsdam, Germany | <font color=darkred>TBA</font> |
 | 3 April 2019 | 5 April 2019 | SKA History Meeting | Jodrell Bank, UK | https://indico.skatelescope.org/event/518/ |
 | 07 April 2019                                                | 12 April 2019                                                | EGU General Assembly 2019          | Vienna, Austria                   | http://www.egu2019.eu/ |
 | 08 April 2019                                                | 12 April 2019                                                | ESLAB #53: The Gaia Universe | Noordwijk, The Netherlands        | https://www.cosmos.esa.int/web/the-gaia-universe/ |
@@ -35,8 +35,8 @@
 | 22 April 2019                                                | 26 April 2019                                                | FIG Working Week 2019         | Hanoi, Vietnam                    | http://www.fig.net/fig2019/ |
 | 01 May 2019                                                  | 31 May 2019                                                  | 24th EVGA Working Meeting & 20th IVS Analysis Workshop [exact dates TBD] | Las Palmas de Gran Canaria, Spain | <font color=darkred>TBA</font> |
 | 13 May 2019 | 17 May 2019 | ESA Living Planet Symposium | Milan, Italy | https://lps19.esa.int/QuickEventWebsitePortal/living-planet-symposium-2019/website |
-| 05 May 2019                                                  | 09 May 2019                                                  | Tenth IVS Technical Operations Workshop                      | Westford, MA, USA                 | <font color=darkred>TBA</font> |
-| 22 May 2019                                                  | 24 May 2019                                                  | EUREF 2019 Symposium                                         | Tallinn, Estonia                  | 2019-06-17 |
+| 05 May 2019                                                  | 09 May 2019                                                  | Tenth IVS Technical Operations Workshop                      | Westford, MA, USA                 | https://www.haystack.mit.edu/workshop/TOW2019/Index.html |
+| 22 May 2019                                                  | 24 May 2019                                                  | EUREF 2019 Symposium                                         | Tallinn, Estonia                  | <font color=darkred>TBA</font> |
 | 12 June e 2019 | 14 June 2019 | PASC19 | ETH Zurich, Switzerland | https://pasc19.pasc-conference.org/ |
 | 2019-06-17 | 2019-06-20 | The 41st PIERS | Rome,Italy | http://piers.org/piers2019Rome/ |
 | June 25 2019 | June 27 2019 | Radio/Millimeter Astrophysical Frontiers in the Next Decade | University of Virginia, Inn at Darden, Charlottesville, VA | https://web.cvent.com/event/113b66a4-48cd-4881-a098-ed5820c65813/summary |
@@ -54,8 +54,8 @@
 
 | Begin | End | Title | Location | Website |
 | ----------- | ---------- | :-----------: | :----------: | -------- |
-| 21 January 2020                                              | 24 January 2020                                              | ION Precise Time and Time Interval Meeting (PTTI)            | San Diego, CA, USA                                           |                                            |
-| 01 April 2020                                                | 31 May 2020                                                  | European Navigation Conference 2020 (ENC 2020) [exact dates TBD] | Dresden, Germany                                             |                                              |
+| 21 January 2020                                              | 24 January 2020                                              | ION Precise Time and Time Interval Meeting (PTTI)            | San Diego, CA, USA                                           | <font color=darkred>TBA</font> |
+| 01 April 2020                                                | 31 May 2020                                                  | European Navigation Conference 2020 (ENC 2020) [exact dates TBD] | Dresden, Germany                                             | <font color=darkred>TBA</font> |
 | 03 May 2020                                                  | 08 May 2020                                                  | EGU General Assembly 2020          | Vienna, Austria                                              | http://www.egu2020.eu                         |
 | 10 May 2020                                                  | 14 May 2020                                                  | FIG Working Week 2020         | Amsterdam, The Netherlands                                   | http://www.fig.net/fig2020/        |
 | 28 June 2020                                                 | 04 July 2020                                                 | AOGS 17th Annual Meeting                                     | Gangwon, South Korea                                         | <font color=darkred>TBA</font> |
