@@ -17,7 +17,7 @@
 | 12 February 2019 | 15 February 2019 | NZ SKA Forum 2019 | Auckland University of Technology (AUT), New Zealand | https://irasr.aut.ac.nz/news-And-events2/news-And-events/nz-ska-forum-2019 |
 | 14 March 2019 | 16 March 2019 | VLBI Training School | Las Palmas de Gran, Spain | http://www.oan.es/evga2019/index.shtml |
 | 17 March 2019 | 19 March 2019 | 24th Meeting of the European VLBI group for Geodesy and Astrometry(EVGA) | Las Palmas de Gran, Spain | http://www.oan.es/evga2019/index.shtml |
-| 20 March 2019 |  | 18th IVS Analysis Workshop | Las Palmas de Gran, Spain | <font color=darkred>TBA</font> |
+| 20 March 2019 |  | 18th IVS Analysis Workshop | Las Palmas de Gran, Spain | http://www.oan.es/evga2019/index.shtml |
 | 25 March 2019                                                | 29 March 2019                                                | 2019 Santa Barbara Gaia Sprint | Santa Barbara, CA, USA            | http://gaia.lol/2019SB.html |
 
 
@@ -37,7 +37,9 @@
 | 13 May 2019 | 17 May 2019 | ESA Living Planet Symposium | Milan, Italy | https://lps19.esa.int/QuickEventWebsitePortal/living-planet-symposium-2019/website |
 | 05 May 2019                                                  | 09 May 2019                                                  | Tenth IVS Technical Operations Workshop                      | Westford, MA, USA                 | https://www.haystack.mit.edu/workshop/TOW2019/Index.html |
 | 22 May 2019                                                  | 24 May 2019                                                  | EUREF 2019 Symposium                                         | Tallinn, Estonia                  | <font color=darkred>TBA</font> |
-| 12 June e 2019 | 14 June 2019 | PASC19 | ETH Zurich, Switzerland | https://pasc19.pasc-conference.org/ |
+| 29 May 2019 | 31 May 2019 | East Asia SKA Science Workshop2019 | Shanghai, China | http://eassw2019.csp.escience.cn/dct/page/1 |
+| 10 June 2019 | 14 June 2019 | Zooming in on Star Formation | Nafplio, Greece | https://indico.nbi.ku.dk/event/1055/ |
+| 12 June 2019 | 14 June 2019 | PASC19 | ETH Zurich, Switzerland | https://pasc19.pasc-conference.org/ |
 | 2019-06-17 | 2019-06-20 | The 41st PIERS | Rome,Italy | http://piers.org/piers2019Rome/ |
 | June 25 2019 | June 27 2019 | Radio/Millimeter Astrophysical Frontiers in the Next Decade | University of Virginia, Inn at Darden, Charlottesville, VA | https://web.cvent.com/event/113b66a4-48cd-4881-a098-ed5820c65813/summary |
 | 08 July 2019                                                 | 18 July 2019                                                 | 27th IUGG General Assembly   | Montreal, Canada                  | http://iugg2019montreal.com/ |
