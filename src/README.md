@@ -13,4 +13,4 @@
 - http://wp.portal.chalmers.se/evga/meetings/
 - [DiFX](http://www.atnf.csiro.au/vlbi/dokuwiki/doku.php/difx/meetings)
 - [SKA](https://indico.skatelescope.org/category/1/)
-
+- [nbi](https://indico.nbi.ku.dk/category/5/)
