@@ -25,6 +25,7 @@
 
 | Begin | End | Title| Location                          | Website                   |
 | :------- | ---------- | :----------: | :---------: | ------- |
+| 2019-04-01 | 2019-04-03 | 首届东陆天体物理论坛-大规模巡天时代：近场宇宙学和时域天文 | 云南昆明 | http://www.mephisto.ynu.edu.cn/intro_Donglu.html |
 | April 2019 |  | IGS 2019 Analysis Workshop | Potsdam, Germany | <font color=darkred>TBA</font> |
 | 3 April 2019 | 5 April 2019 | SKA History Meeting | Jodrell Bank, UK | https://indico.skatelescope.org/event/518/ |
 | 07 April 2019                                                | 12 April 2019                                                | EGU General Assembly 2019          | Vienna, Austria                   | http://www.egu2019.eu/ |
@@ -43,7 +44,9 @@
 | 2019-06-17 | 2019-06-20 | The 41st PIERS | Rome,Italy | http://piers.org/piers2019Rome/ |
 | June 25 2019 | June 27 2019 | Radio/Millimeter Astrophysical Frontiers in the Next Decade | University of Virginia, Inn at Darden, Charlottesville, VA | https://web.cvent.com/event/113b66a4-48cd-4881-a098-ed5820c65813/summary |
 | 08 July 2019                                                 | 18 July 2019                                                 | 27th IUGG General Assembly   | Montreal, Canada                  | http://iugg2019montreal.com/ |
+| 2019-08-21 | 2019-08-23 | 第六届中国科学数据大会-科学数据与重大科研基础设施 | 贵州省贵阳市 | http://dc2019.csp.escience.cn/dct/page/1 |
 | 28 July 2019                                                 | 02 August 2019                                               | AOGS 16th Annual Meeting | Singapore                         | http://www.asiaoceania.org/aogs2019/ |
+| 9 August 2019 | 11 August 2019 | BigCom 2019 - The 5th International Conference on Big Data Computing and Communications | Qing Dao, China | http://staff.ustc.edu.cn/~bigcom2019/index.html |
 | 16 Sep 2019                                                  | 20 Sep 2019                                                  | ION GNSS+ 2019                                               | Miami, Florida, USA               | <font color=darkred>TBA</font> |
 | 01 October 2019                                              | 30 November 2019                                             | The Earth's Time Varying Rotation: A Centennial Celebration  | <font color=darkred>TBA</font> | <font color=darkred>TBA</font> |
 | 01 November 2019                                             | 30 November 2019                                             | 14th Meeting of the International Committee on Global Navigation Satellite Systems (ICG) [exact dates TBD] | India                             | <font color=darkred>TBA</font> |
