@@ -39,6 +39,7 @@
 | 05 May 2019                                                  | 09 May 2019                                                  | Tenth IVS Technical Operations Workshop                      | Westford, MA, USA                 | https://www.haystack.mit.edu/workshop/TOW2019/Index.html |
 | 22 May 2019                                                  | 24 May 2019                                                  | EUREF 2019 Symposium                                         | Tallinn, Estonia                  | <font color=darkred>TBA</font> |
 | 29 May 2019 | 31 May 2019 | East Asia SKA Science Workshop2019 | Shanghai, China | http://eassw2019.csp.escience.cn/dct/page/1 |
+| 2019-06-02 | 2019-06-05 | 2019年VLBI科学技术及应用研讨会 | 西安市临潼区 | http://vlbi2019.csp.escience.cn/dct/page/1 |
 | 10 June 2019 | 14 June 2019 | Zooming in on Star Formation | Nafplio, Greece | https://indico.nbi.ku.dk/event/1055/ |
 | 12 June 2019 | 14 June 2019 | PASC19 | ETH Zurich, Switzerland | https://pasc19.pasc-conference.org/ |
 | 2019-06-17 | 2019-06-20 | The 41st PIERS | Rome,Italy | http://piers.org/piers2019Rome/ |
