@@ -51,3 +51,6 @@
 | 2018-12-10  | 2018-12-13  |                      IEEE BigData 2018                       |        Seattle, WA, USA        |     http://cci.drexel.edu/bigdata/bigdata2018/index.html     |
 | 08 October 2018 | 10 October 2018 | 9th OPTICON Gaia Science Alerts workshop |        Vipava, Slovenia        | https://www.ast.cam.ac.uk/ioa/wikis/gsawgwiki/index.php/Workshop2018:main |
 | 10 December 2018 | 14 December 2018 | AGU 2018 Fall Meeting   | Washington, D.C., USA            |https://fallmeeting.agu.org/2018/|
+| 28 January 2019                                             | 31 January 2019                                              | ION Precise Time and Time Interval Meeting (PTTI) | Reston, VA, USA🇺🇸               | https://www.ion.org/ptti/index.cfm |
+| 29 January 2019 | 30 January 2019 | Second Asia SKA Initiative On Neutron Star (ASIONS) meeting | Kantary Hills, Chiang Mai, Thailand | https://indico.narit.or.th/event/96/ |
+| 12 February 2019 | 15 February 2019 | NZ SKA Forum 2019 | Auckland University of Technology (AUT), New Zealand | https://irasr.aut.ac.nz/news-And-events2/news-And-events/nz-ska-forum-2019 |
