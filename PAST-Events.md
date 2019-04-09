@@ -54,3 +54,7 @@
 | 28 January 2019                                             | 31 January 2019                                              | ION Precise Time and Time Interval Meeting (PTTI) | Reston, VA, USA🇺🇸               | https://www.ion.org/ptti/index.cfm |
 | 29 January 2019 | 30 January 2019 | Second Asia SKA Initiative On Neutron Star (ASIONS) meeting | Kantary Hills, Chiang Mai, Thailand | https://indico.narit.or.th/event/96/ |
 | 12 February 2019 | 15 February 2019 | NZ SKA Forum 2019 | Auckland University of Technology (AUT), New Zealand | https://irasr.aut.ac.nz/news-And-events2/news-And-events/nz-ska-forum-2019 |
+| 14 March 2019 | 16 March 2019 | VLBI Training School | Las Palmas de Gran, Spain | http://www.oan.es/evga2019/index.shtml |
+| 17 March 2019 | 19 March 2019 | 24th Meeting of the European VLBI group for Geodesy and Astrometry(EVGA) | Las Palmas de Gran, Spain | http://www.oan.es/evga2019/index.shtml |
+| 20 March 2019 |  | 18th IVS Analysis Workshop | Las Palmas de Gran, Spain | http://www.oan.es/evga2019/index.shtml |
+| 25 March 2019                                                | 29 March 2019                                                | 2019 Santa Barbara Gaia Sprint | Santa Barbara, CA, USA🇺🇸        | http://gaia.lol/2019SB.html |
