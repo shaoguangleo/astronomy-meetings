@@ -54,3 +54,17 @@
 | 28 January 2019                                             | 31 January 2019                                              | ION Precise Time and Time Interval Meeting (PTTI) | Reston, VA, USA🇺🇸               | https://www.ion.org/ptti/index.cfm |
 | 29 January 2019 | 30 January 2019 | Second Asia SKA Initiative On Neutron Star (ASIONS) meeting | Kantary Hills, Chiang Mai, Thailand | https://indico.narit.or.th/event/96/ |
 | 12 February 2019 | 15 February 2019 | NZ SKA Forum 2019 | Auckland University of Technology (AUT), New Zealand | https://irasr.aut.ac.nz/news-And-events2/news-And-events/nz-ska-forum-2019 |
+| 14 March 2019 | 16 March 2019 | VLBI Training School | Las Palmas de Gran, Spain🇪🇸 | http://www.oan.es/evga2019/index.shtml |
+| 17 March 2019 | 19 March 2019 | 24th Meeting of the European VLBI group for Geodesy and Astrometry(EVGA) | Las Palmas de Gran, Spain🇪🇸 | http://www.oan.es/evga2019/index.shtml |
+| 20 March 2019 |  | 18th IVS Analysis Workshop | Las Palmas de Gran, Spain🇪🇸 | http://www.oan.es/evga2019/index.shtml |
+| 25 March 2019                                                | 29 March 2019                                                | 2019 Santa Barbara Gaia Sprint | Santa Barbara, CA, USA🇺🇸        | http://gaia.lol/2019SB.html |
+| 2019-04-01 | 2019-04-03 | 首届东陆天体物理论坛-大规模巡天时代：近场宇宙学和时域天文 | 云南昆明🇨🇳 | http://www.mephisto.ynu.edu.cn/intro_Donglu.html |
+| April 2019 |  | IGS 2019 Analysis Workshop | Potsdam, Germany🇩🇪 | <font color=darkred>TBA</font> |
+| 3 April 2019 | 5 April 2019 | SKA History Meeting | Jodrell Bank, UK🇬🇧 | https://indico.skatelescope.org/event/518/ |
+| 07 April 2019                                                | 12 April 2019                                                | EGU General Assembly 2019          | Vienna, Austria🇦🇹               | http://www.egu2019.eu/ |
+| 08 April 2019                                                | 12 April 2019                                                | ESLAB #53: The Gaia Universe | Noordwijk, The Netherlands🇳🇱    | https://www.cosmos.esa.int/web/the-gaia-universe/ |
+| 08 April 2019 | 12 April 2019 | SKA General Science Meeting and Key Science Workshop 2019 "New Science enabled by New Technologies in the SKA Era" | Alderley Park in Alderley Edge (Mon, Tue, Wed), and the new SKA Headquarters (Thu, Fri) at Jodrell Bank🇬🇧 | https://indico.skatelescope.org/event/467/ |
+| 09 April 2019                                                | 12 April 2019                                                | European Navigation Conference 2019 (ENC 2019) | Warsaw, Poland🇵🇱                | http://enc2019.eu/  |
+| 15 April 2019 | 17 April 2019 | Eating VLBI workshop 2019 "East Asia to Italy: Nearly Global VLBI" | Bologna,CNR Research area,Italy🇮🇹 | https://sites.google.com/a/inaf.it/eating-vlbi-workshop-2019/home |
+| 2019-04-18 | 2019-04-22 | 2019年射电天文前沿与技术研讨会 | 贵州平塘🇨🇳 | http://crat2019.csp.escience.cn/dct/page/1 |
+| 22 April 2019                                                | 26 April 2019                                                | FIG Working Week 2019         | Hanoi, Vietnam🇻🇳                | http://www.fig.net/fig2019/ |
