@@ -68,3 +68,14 @@
 | 15 April 2019 | 17 April 2019 | Eating VLBI workshop 2019 "East Asia to Italy: Nearly Global VLBI" | Bologna,CNR Research area,Italy🇮🇹 | https://sites.google.com/a/inaf.it/eating-vlbi-workshop-2019/home |
 | 2019-04-18 | 2019-04-22 | 2019年射电天文前沿与技术研讨会 | 贵州平塘🇨🇳 | http://crat2019.csp.escience.cn/dct/page/1 |
 | 22 April 2019                                                | 26 April 2019                                                | FIG Working Week 2019         | Hanoi, Vietnam🇻🇳                | http://www.fig.net/fig2019/ |
+| 01 May 2019                                                  | 31 May 2019                                                  | 24th EVGA Working Meeting & 20th IVS Analysis Workshop [exact dates TBD] | Las Palmas de Gran Canaria, Spain🇪🇸 | <font color=darkred>TBA</font> |
+| 13 May 2019 | 17 May 2019 | ESA Living Planet Symposium | Milan, Italy🇮🇹 | https://lps19.esa.int/QuickEventWebsitePortal/living-planet-symposium-2019/website |
+| 05 May 2019                                                  | 09 May 2019                                                  | Tenth IVS Technical Operations Workshop                      | Westford, MA, USA🇺🇸             | https://www.haystack.mit.edu/workshop/TOW2019/Index.html |
+| 22 May 2019                                                  | 24 May 2019                                                  | EUREF 2019 Symposium                                         | Tallinn, Estonia🇪🇪              | <font color=darkred>TBA</font> |
+| 29 May 2019 | 31 May 2019 | East Asia SKA Science Workshop2019 | Shanghai, China🇨🇳 | http://eassw2019.csp.escience.cn/dct/page/1 |
+| 2019-06-02 | 2019-06-05 | 2019年VLBI科学技术及应用研讨会 | 西安市临潼区🇨🇳 | http://vlbi2019.csp.escience.cn/dct/page/1 |
+| 10 June 2019 | 14 June 2019 | Zooming in on Star Formation | Nafplio, Greece🇬🇷 | https://indico.nbi.ku.dk/event/1055/ |
+| 2019-06-10 | 2019-06-21 | The Xth International Pulsar Timing Array (IPTA) workshop | Pune, India🇮🇳 | https://conf.ncra.tifr.res.in/event/2/ |
+| 2019-06-11 | 2019-06-13 | 110米口径全向可动射电望远镜前沿科学与技术研讨会 | 新疆乌鲁木齐🇨🇳 | http://973-2019.csp.escience.cn/dct/page/1 |
+| 12 June 2019 | 14 June 2019 | PASC19 | ETH Zurich, Switzerland🇨🇭 | https://pasc19.pasc-conference.org/ |
+| 2019-06-17 | 2019-06-20 | The 41st PIERS | Rome,Italy意大利 | http://piers.org/piers2019Rome/ |

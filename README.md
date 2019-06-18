@@ -12,17 +12,6 @@
 
 |    Begin    | End         |                             Title                             |            Location            |                           Website                            |
 | :---------: | ----------- | :----------------------------------------------------------: | :----------------------------: | :----------------------------------------------------------: |
-| 01 May 2019                                                  | 31 May 2019                                                  | 24th EVGA Working Meeting & 20th IVS Analysis Workshop [exact dates TBD] | Las Palmas de Gran Canaria, Spain🇪🇸 | <font color=darkred>TBA</font> |
-| 13 May 2019 | 17 May 2019 | ESA Living Planet Symposium | Milan, Italy🇮🇹 | https://lps19.esa.int/QuickEventWebsitePortal/living-planet-symposium-2019/website |
-| 05 May 2019                                                  | 09 May 2019                                                  | Tenth IVS Technical Operations Workshop                      | Westford, MA, USA🇺🇸             | https://www.haystack.mit.edu/workshop/TOW2019/Index.html |
-| 22 May 2019                                                  | 24 May 2019                                                  | EUREF 2019 Symposium                                         | Tallinn, Estonia🇪🇪              | <font color=darkred>TBA</font> |
-| 29 May 2019 | 31 May 2019 | East Asia SKA Science Workshop2019 | Shanghai, China🇨🇳 | http://eassw2019.csp.escience.cn/dct/page/1 |
-| 2019-06-02 | 2019-06-05 | 2019年VLBI科学技术及应用研讨会 | 西安市临潼区🇨🇳 | http://vlbi2019.csp.escience.cn/dct/page/1 |
-| 10 June 2019 | 14 June 2019 | Zooming in on Star Formation | Nafplio, Greece🇬🇷 | https://indico.nbi.ku.dk/event/1055/ |
-| 2019-06-10 | 2019-06-21 | The Xth International Pulsar Timing Array (IPTA) workshop | Pune, India🇮🇳 | https://conf.ncra.tifr.res.in/event/2/ |
-| 2019-06-11 | 2019-06-13 | 110米口径全向可动射电望远镜前沿科学与技术研讨会 | 新疆乌鲁木齐🇨🇳 | http://973-2019.csp.escience.cn/dct/page/1 |
-| 12 June 2019 | 14 June 2019 | PASC19 | ETH Zurich, Switzerland🇨🇭 | https://pasc19.pasc-conference.org/ |
-| 2019-06-17 | 2019-06-20 | The 41st PIERS | Rome,Italy意大利 | http://piers.org/piers2019Rome/ |
 | June 25 2019 | June 27 2019 | Radio/Millimeter Astrophysical Frontiers in the Next Decade | University of Virginia, Inn at Darden, Charlottesville, VA | https://web.cvent.com/event/113b66a4-48cd-4881-a098-ed5820c65813/summary |
 | 2019-06-26 | 2019-06-28 | FAST/Future Pulsar Symposium 8 | 陕西西安🇨🇳 | http://www.phy.pku.edu.cn/~FPS/FPS8/FPS8.html |
 | 08 July 2019                                                 | 18 July 2019                                                 | 27th IUGG General Assembly   | Montreal, Canada🇨🇦              | http://iugg2019montreal.com/ |
@@ -30,12 +19,6 @@
 | 2019-07-10 | 2019-07-15 | 2019年度分子云与恒星形成研讨会 | 新疆阿勒泰🇨🇳 | http://2019mcandsf.csp.escience.cn/dct/page/1 |
 | 2019-07-14 | 2019-07-18 | 中国天文学会第12届张衡学术研讨会 | 新疆乌鲁木齐🇨🇳 | <http://zhangheng2019.csp.escience.cn/dct/page/65540> |
 | 2019-07-22 | 2019-07-24 | The 4th International Conference on Lunar and Deep Space Exploration (LDSE) | 珠海市🇨🇳 |  |
-
-
-### 2019
-
-| Begin | End | Title| Location                          | Website                   |
-| :------- | ---------- | :----------: | :---------: | ------- |
 | 2019-08-21 | 2019-08-23 | 第六届中国科学数据大会-科学数据与重大科研基础设施 | 贵州省贵阳市🇨🇳 | http://dc2019.csp.escience.cn/dct/page/1 |
 | 28 July 2019                                                 | 02 August 2019                                               | AOGS 16th Annual Meeting | Singapore🇸🇬                     | http://www.asiaoceania.org/aogs2019/ |
 | 9 August 2019 | 11 August 2019 | BigCom 2019 - The 5th International Conference on Big Data Computing and Communications | Qing Dao, China🇨🇳 | http://staff.ustc.edu.cn/~bigcom2019/index.html |
@@ -43,6 +26,12 @@
 | 2019-09-19 | 2019-09-20 | CODATA 2019: Towards next-generation data-driven science: policies, practices and platforms | Beijing，China🇨🇳 | http://www.codata.org/events/conferences/codata-2019-beijing |
 | 7 October 2019 | 11 October 2019 | ERIS 2019 - European Radio Interferometry School | Gothenburg, Sweden | https://www.chalmers.se/en/researchinfrastructure/oso/events/ERIS2019/Pages/default.aspx |
 | 01 October 2019                                              | 30 November 2019                                             | The Earth's Time Varying Rotation: A Centennial Celebration  | <font color=darkred>TBA</font> | <font color=darkred>TBA</font> |
+
+
+### 2019
+
+| Begin | End | Title| Location                          | Website                   |
+| :------- | ---------- | :----------: | :---------: | ------- |
 | 2019-10-14 | 2019-10-17 | SKA-VLBI Key Science Projects and Operations Workshop | Jodrell Bank Observatory，United Kingdom | https://indico.skatelescope.org/event/539/ |
 | 01 November 2019                                             | 30 November 2019                                             | 14th Meeting of the International Committee on Global Navigation Satellite Systems (ICG) [exact dates TBD] | India🇮🇳                         | <font color=darkred>TBA</font> |
 | 2019-11-25 | 2019-11-28 | The SKA System Design, Operations & Plans | 上海🇨🇳 | https://indico.skatelescope.org/event/551/?utm_source=SKAO+Monthly+Bulletin+List&utm_campaign=0d00ad8544-EMAIL_CAMPAIGN_2017_03_13_COPY_01&utm_medium=email&utm_term=0_5994438ad7-0d00ad8544-346687949 |
