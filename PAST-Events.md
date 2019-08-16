@@ -79,3 +79,10 @@
 | 2019-06-11 | 2019-06-13 | 110米口径全向可动射电望远镜前沿科学与技术研讨会 | 新疆乌鲁木齐🇨🇳 | http://973-2019.csp.escience.cn/dct/page/1 |
 | 12 June 2019 | 14 June 2019 | PASC19 | ETH Zurich, Switzerland🇨🇭 | https://pasc19.pasc-conference.org/ |
 | 2019-06-17 | 2019-06-20 | The 41st PIERS | Rome,Italy意大利 | http://piers.org/piers2019Rome/ |
+| June 25 2019 | June 27 2019 | Radio/Millimeter Astrophysical Frontiers in the Next Decade | University of Virginia, Inn at Darden, Charlottesville, VA | https://web.cvent.com/event/113b66a4-48cd-4881-a098-ed5820c65813/summary |
+| 2019-06-26 | 2019-06-28 | FAST/Future Pulsar Symposium 8 | 陕西西安🇨🇳 | http://www.phy.pku.edu.cn/~FPS/FPS8/FPS8.html |
+| 08 July 2019                                                 | 18 July 2019                                                 | 27th IUGG General Assembly   | Montreal, Canada🇨🇦              | http://iugg2019montreal.com/ |
+| 2019-07-05 | 2019-07-07 | 第二届全国大数据与人工智能科学大会 | 云南昆明🇨🇳 | <http://csiam-bd-ai.csp.escience.cn/dct/page/1> |
+| 2019-07-10 | 2019-07-15 | 2019年度分子云与恒星形成研讨会 | 新疆阿勒泰🇨🇳 | http://2019mcandsf.csp.escience.cn/dct/page/1 |
+| 2019-07-14 | 2019-07-18 | 中国天文学会第12届张衡学术研讨会 | 新疆乌鲁木齐🇨🇳 | <http://zhangheng2019.csp.escience.cn/dct/page/65540> |
+| 2019-07-22 | 2019-07-24 | The 4th International Conference on Lunar and Deep Space Exploration (LDSE) | 珠海市🇨🇳 |  |

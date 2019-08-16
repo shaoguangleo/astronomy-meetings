@@ -12,16 +12,10 @@
 
 |    Begin    | End         |                             Title                             |            Location            |                           Website                            |
 | :---------: | ----------- | :----------------------------------------------------------: | :----------------------------: | :----------------------------------------------------------: |
-| June 25 2019 | June 27 2019 | Radio/Millimeter Astrophysical Frontiers in the Next Decade | University of Virginia, Inn at Darden, Charlottesville, VA | https://web.cvent.com/event/113b66a4-48cd-4881-a098-ed5820c65813/summary |
-| 2019-06-26 | 2019-06-28 | FAST/Future Pulsar Symposium 8 | 陕西西安🇨🇳 | http://www.phy.pku.edu.cn/~FPS/FPS8/FPS8.html |
-| 08 July 2019                                                 | 18 July 2019                                                 | 27th IUGG General Assembly   | Montreal, Canada🇨🇦              | http://iugg2019montreal.com/ |
-| 2019-07-05 | 2019-07-07 | 第二届全国大数据与人工智能科学大会 | 云南昆明🇨🇳 | <http://csiam-bd-ai.csp.escience.cn/dct/page/1> |
-| 2019-07-10 | 2019-07-15 | 2019年度分子云与恒星形成研讨会 | 新疆阿勒泰🇨🇳 | http://2019mcandsf.csp.escience.cn/dct/page/1 |
-| 2019-07-14 | 2019-07-18 | 中国天文学会第12届张衡学术研讨会 | 新疆乌鲁木齐🇨🇳 | <http://zhangheng2019.csp.escience.cn/dct/page/65540> |
-| 2019-07-22 | 2019-07-24 | The 4th International Conference on Lunar and Deep Space Exploration (LDSE) | 珠海市🇨🇳 |  |
 | 2019-08-21 | 2019-08-23 | 第六届中国科学数据大会-科学数据与重大科研基础设施 | 贵州省贵阳市🇨🇳 | http://dc2019.csp.escience.cn/dct/page/1 |
 | 28 July 2019                                                 | 02 August 2019                                               | AOGS 16th Annual Meeting | Singapore🇸🇬                     | http://www.asiaoceania.org/aogs2019/ |
 | 9 August 2019 | 11 August 2019 | BigCom 2019 - The 5th International Conference on Big Data Computing and Communications | Qing Dao, China🇨🇳 | http://staff.ustc.edu.cn/~bigcom2019/index.html |
+| 2019-09-06 | 2019-09-10 | 中国天文学会2019年学术年会 | 青海省海西州德令哈市🇨🇳 | http://2019casmeeting.csp.escience.cn/dct/page/1 |
 | 16 Sep 2019                                                  | 20 Sep 2019                                                  | ION GNSS+ 2019                                               | Miami, Florida, USA🇺🇸           | <font color=darkred>TBA</font> |
 | 2019-09-19 | 2019-09-20 | CODATA 2019: Towards next-generation data-driven science: policies, practices and platforms | Beijing，China🇨🇳 | http://www.codata.org/events/conferences/codata-2019-beijing |
 | 7 October 2019 | 11 October 2019 | ERIS 2019 - European Radio Interferometry School | Gothenburg, Sweden | https://www.chalmers.se/en/researchinfrastructure/oso/events/ERIS2019/Pages/default.aspx |
