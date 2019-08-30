@@ -86,3 +86,6 @@
 | 2019-07-10 | 2019-07-15 | 2019年度分子云与恒星形成研讨会 | 新疆阿勒泰🇨🇳 | http://2019mcandsf.csp.escience.cn/dct/page/1 |
 | 2019-07-14 | 2019-07-18 | 中国天文学会第12届张衡学术研讨会 | 新疆乌鲁木齐🇨🇳 | <http://zhangheng2019.csp.escience.cn/dct/page/65540> |
 | 2019-07-22 | 2019-07-24 | The 4th International Conference on Lunar and Deep Space Exploration (LDSE) | 珠海市🇨🇳 |  |
+| 2019-08-21 | 2019-08-23 | 第六届中国科学数据大会-科学数据与重大科研基础设施 | 贵州省贵阳市🇨🇳 | http://dc2019.csp.escience.cn/dct/page/1 |
+| 28 July 2019                                                 | 02 August 2019                                               | AOGS 16th Annual Meeting | Singapore🇸🇬                     | http://www.asiaoceania.org/aogs2019/ |
+| 9 August 2019 | 11 August 2019 | BigCom 2019 - The 5th International Conference on Big Data Computing and Communications | Qing Dao, China🇨🇳 | http://staff.ustc.edu.cn/~bigcom2019/index.html |
