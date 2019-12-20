@@ -16,3 +16,7 @@
 - [nbi](https://indico.nbi.ku.dk/category/5/)
 - [Conferences and Meeting on Astronomy, Astrophysics and Cosmology](https://www.conference-service.com/conferences/gravitation-and-cosmology.html)
 - https://asaip.psu.edu/meetings
+
+# TODO
+
+- adding the related meeting to the main README.md automatically
